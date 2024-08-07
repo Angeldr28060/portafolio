@@ -111,7 +111,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  box-shadow: 0 1px 4px rgba(63, 78, 92, 0.15);
 }
 
 /*===== NAV =====*/
